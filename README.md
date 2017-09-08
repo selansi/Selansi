@@ -1,2 +1,10 @@
 # Selansi
-Selansi Toolbox: Simulation of Stochastic Gene Regulatory Networks
+
+SELANSI (SEmi-LAgrangian SImulation of GRNs)
+Matlab toolbox for the
+simulation of stochastic multidimensional gene regulatory networks. 
+
+(Windows, Linux, MacOS)
+
+Please cite:
+Pájaro et al 2017
