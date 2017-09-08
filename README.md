@@ -8,3 +8,5 @@ simulation of stochastic multidimensional gene regulatory networks.
 
 Please cite:
 Pájaro et al 2017
+
+Get started and User's Guide: see DOCUMENTATION/SELANSI_Manual
